@@ -1,0 +1,13 @@
+Partlist
+---------
+Part     Value          Package                       Part Number
+
+C1       100n           C0603                         CC0603KRX7R8BB104
+C2       100n           C0603                         CC0603KRX7R8BB104
+C3       100n           C0603                         CC0603KRX7R8BB104
+C4       100n           C0603                         CC0603KRX7R8BB104
+IC1                     2x 20pin DIP socket/header 
+IC2      74AHCT1G00     SOT23-5                       SN74AHCT1G00DBVR
+IC3      74AHCT1G00     SOT23-5                       SN74AHCT1G00DBVR
+IC4      74AHCT1G08     SOT23-5                       SN74AHCT1G08DBVR
+U1       AS6C1008       TSOP32                        AS6C1008-55TIN
